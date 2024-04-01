@@ -6,8 +6,8 @@ The project follows a directory structure where individual components, including
 
 <h1>Components</h1>
 
-SimpleTable.tsx: Main component responsible for rendering the table based on provided data and column definitions.
-Label.tsx: Renders labels based on decision status for specific columns.
+1. SimpleTable.tsx: Main component responsible for rendering the table based on provided data and column definitions.
+2. Label.tsx: Renders labels based on decision status for specific columns.
 
 <h1>Installation</h1>
 
