@@ -7,11 +7,11 @@ Components
 SimpleTable.tsx: Main component responsible for rendering the table based on provided data and column definitions.
 Label.tsx: Renders labels based on decision status for specific columns.
 
-Installation
+<h1>Installation</h1>h2>
 
 To set up and run the project locally:
 
-Clone this repository.
-Run npm install to install dependencies.
-Start the development server with npm start.
-Access the application in your browser at http://localhost:3000.
+1.Clone this repository.
+2.Run npm install to install dependencies.
+3.Start the development server with npm start.
+4.Access the application in your browser at http://localhost:3000.
