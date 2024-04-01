@@ -1,9 +1,11 @@
 # userdatatable![image](https://github.com/vasanthman/userdatatable/assets/141633819/5c448dff-6698-41d2-aed6-e30f9e665323)
 
-Project Structure
+<h1>Project Structure</h1>
+
 The project follows a directory structure where individual components, including the SimpleTable.tsx, are placed within the components directory.
 
-Components
+<h1>Components</h1>
+
 SimpleTable.tsx: Main component responsible for rendering the table based on provided data and column definitions.
 Label.tsx: Renders labels based on decision status for specific columns.
 
